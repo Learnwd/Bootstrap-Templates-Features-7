@@ -1,14 +1,14 @@
 .features-block-7 {
     background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("https://i.imgur.com/V4Byp6n.png");
     background-size: cover;
-    background-position: center top;
+    background-position: center;
 	padding-top: 100px;
 	font-family: "Nunito", sans-serif;
     color: #ffffff;
 }
 
 .features-block-7 h1 {
-    font-size: 	2.825rem;
+    font-size: 	2.625rem;
     font-weight: 300;
     margin-bottom: 35px;
 }
@@ -22,7 +22,7 @@
 }
 
 .features-block-7 h3 {
-    font-size: 	1.75rem;
+    font-size: 	1.625rem;
     font-weight: 300;
     margin-bottom: 20px;
 }
@@ -36,7 +36,7 @@
 .features-block-7 p {
     font-size: 	1.125rem;
     font-weight: 300;
-    margin-bottom: 75px;
+    margin-bottom: 55px;
     line-height: 1.5;
     color: #c1c1c1;
     width: 75%;
@@ -62,7 +62,7 @@
 		width: 85%;
 		margin-right: auto;
 		margin-left: auto;
-        margin-bottom: 85px;
+        margin-bottom: 75px;
 	}
     
     .features-block-7 p {
