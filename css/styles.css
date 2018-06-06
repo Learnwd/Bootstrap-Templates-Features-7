@@ -1,0 +1,71 @@
+.features-block-7 {
+	background: url("../images/bg.png");
+    background-size: cover;
+    background-position: center;
+	padding-top: 100px;
+	font-family: "Nunito", sans-serif;
+    color: #ffffff;
+}
+
+.features-block-7 h1 {
+    font-size: 	2.625rem;
+    font-weight: 300;
+    margin-bottom: 35px;
+}
+
+.features-block-7 h2 {
+    font-size: 1.375rem;
+    font-weight: 300;
+    margin-bottom: 45px;
+    line-height: 1.5;
+    color: #cecece;
+}
+
+.features-block-7 h3 {
+    font-size: 	1.5rem;
+    font-weight: 300;
+    margin-bottom: 15px;
+}
+
+.features-block-7 h4 {
+    font-size: 	1rem;
+    font-weight: 600;
+    margin-bottom: 35px;
+}
+
+.features-block-7 p {
+    font-size: 	1rem;
+    font-weight: 300;
+    margin-bottom: 55px;
+    line-height: 1.5;
+    color: #cecece;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.features-block-7 .fa {
+    font-size: 28px !important;
+    margin-bottom: 15px;
+}
+
+.features-block-7 .icon-1 {
+    color: #18c967;
+}
+
+.features-block-7 .icon-2 {
+    color: #ff0000;
+}
+
+@media (min-width: 992px) {
+    .features-block-7 h2 {
+		width: 80%;
+		margin-right: auto;
+		margin-left: auto;
+        margin-bottom: 75px;
+	}
+    
+    .features-block-7 p {
+        width: 100%;
+    }
+}
